@@ -1,1 +1,1 @@
-This project will consist of a main index pages with links to recipes. The goal of this project is to develop the basic HTML skills learned so far.
+This project is a basic recipe website. The goal of this project is to develop the basic HTML skills learned so far. It consists of a main index page that links to different recipes.
